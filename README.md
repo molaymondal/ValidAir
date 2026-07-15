@@ -8,7 +8,7 @@ The repository includes:
 - [Degraded sensor datasets](/Dataset/Degraded_dataset.csv)
 - [Faulty sensor datasets](/Dataset/Faulty_datasets.csv)
 - [Experimental Materials](/Experimental_Materials/)
-- [Demonstration video of the validation box](/Demo%20Videos/)
+- [Demonstration video of the validation box](/Demo_Videos/)
 
 # Experimental Materials
 
